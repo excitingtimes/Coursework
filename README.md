@@ -80,7 +80,7 @@ Second semester :
 
 Machine Learning courses :
 * **Statistics and Machine Learning**
-* **Black Swans Detection in Particle Physics**
+* **Black Swans Detection in Particle Physics** (my [repository](https://github.com/hugoby42/CS_black_swans_particle_physics))
 * **Data Analysis in Cosmology**
 
 Applied Mathematics courses :
@@ -99,4 +99,13 @@ Physics courses :
 * **Continuum Mechanics**
 * **Antennas and Resilient Communication Systems** 
 
+**Main project** : Design of an orbital simulator for cubesat trajectory prediction (my [repository](https://github.com/hugoby42/CS_cubesat_orbital_simulator))
+
 ## Lycée du Parc (2016-2018) 
+
+* **Mathematics**
+* **Physics**
+* **Computer Science**
+* **Chemistry**
+
+Summer internship at CERN [report](https://github.com/hugoby42/CERN_OUTREACH_REPORT).
