@@ -2,7 +2,7 @@ A list of courseworks completed during my time at university (last update : Febr
 
 ## ENS Paris-Saclay / CentraleSupélec (2020-2021) 
 
-<ins>**Double degree : Master MVA (*ENS Paris-Saclay*)**<\ins>
+<ins>**Double degree : Master MVA (*ENS Paris-Saclay*)**</ins>
 
 First semester :
 * **Reinforcement Learning** by Alessandro Lazaric and Matteo Pirotta (my [repository](https://github.com/hugoby42/MVA_RL))
