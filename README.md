@@ -2,7 +2,8 @@ A list of courseworks completed during my time at university (last update : Febr
 
 ## ENS Paris-Saclay / CentraleSupélec (2020-2021) 
 
-**Double degree : Master of Science in Deep Learning (*ENS Paris-Saclay*)**
+<ins>**Double degree : Master of Science in Deep Learning (*ENS Paris-Saclay*)**<\ins>
+
 First semester :
 * **Reinforcement Learning** by Alessandro Lazaric and Matteo Pirotta (my [repository](https://github.com/hugoby42/CS_time_series))
 
@@ -19,7 +20,8 @@ Second semester :
 * **Random Matrix Theory** by Emmanuel Dupoux (my [repository](https://github.com/hugoby42/CS_time_series))
 
 
-**Main curriculum : Master of Engineering in Machine Learning (*CentraleSupélec*)**
+<ins>**Main curriculum : Master of Engineering in Machine Learning (*CentraleSupélec*)**</ins>
+
 Core courses :
 * **Advanced Machine Learning** by (my [repository](https://github.com/hugoby42/CS_time_series))
 * **Large scale distributed optimization** by (my [repository](https://github.com/hugoby42/CS_time_series))
@@ -45,18 +47,20 @@ Elective courses (second semester) :
 
 ## Trinity College (University of Cambridge) / CentraleSupélec (2019-2020) 
 First semester :
-*
-*
-*
-*
-*
+* **Mathematical Methods** by 
+* **Bayesian Inference** by 
+* **Introduction to Neuroscience** by 
+* **Statistical Signal Processing** by 
+* **Business Economics** by 
 
 Second semester :
-*
-*
-*
-*
-*
+* **Information Theory and Coding** by 
+* **Medical Imaging and 3D Computer Graphics** by 
+* **Introduction to Molecular Bioengineering** by 
+* **Biomaterials** by 
+* **Organizational Behaviour** by 
+
+**Research project** : OFDM Baseband under the supervision of *Jossy Jayir* (my [repository](https://github.com/hugoby42/CS_AMDA))
 
 ## CentraleSupélec / Université Paris-Sud (2018-2019) 
 Core courses :
