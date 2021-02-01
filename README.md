@@ -2,7 +2,7 @@ A list of courseworks completed during my time at university (last update : Febr
 
 ## ENS Paris-Saclay / CentraleSupélec (2020-2021) 
 
-<ins>**Double degree : Master of Science in Deep Learning (*ENS Paris-Saclay*)**<\ins>
+<ins>**Double degree : Master MVA (*ENS Paris-Saclay*)**<\ins>
 
 First semester :
 * **Reinforcement Learning** by Alessandro Lazaric and Matteo Pirotta (my [repository](https://github.com/hugoby42/CS_time_series))
@@ -68,15 +68,35 @@ Second semester :
 
 <ins>**Double Degree : Bachelor of Science in Theoretical Physics (*Université Paris-Sud*)**</ins>
 
+* **Quantum Mechanics**
+* **Analytical Mechanics**
+* **Continuous Media Electrodynamics**
+* **Statistical Physics**
+* **Wave Optics**
+* **Special Relativity**
+* **History of Science**
 
 <ins>**Main curriculum : Bachelor of Engineering in Computer Science (*CentraleSupélec*)**</ins>
 
 Machine Learning courses :
+* **Statistics and Machine Learning**
+* **Black Swans Detection in Particle Physics**
+* **Data Analysis in Cosmology**
 
 Applied Mathematics courses :
+* **Convergence, integration, probability and PDEs**
+* **Signal Processing**
 
 Computer Science courses :
+* **Algorithmics and Complexity**
+* **Information Systems and Programming**
+* **Formal Logic and Verification** (optional)
 
 Physics courses :
+* **Quantum and Statistical Physics**
+* **Electronic Systems**
+* **Electrical Energy**
+* **Continuum Mechanics**
+* **Antennas and Resilient Communication Systems** 
 
 ## Lycée du Parc (2016-2018) 
